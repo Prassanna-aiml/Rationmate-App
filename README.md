@@ -1,5 +1,3 @@
-# Rationmate-App
-
 <!DOCTYPE html>
 <html>
 <head>
